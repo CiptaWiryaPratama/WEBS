@@ -1,0 +1,55 @@
+.navigasi {
+     background-color: rgba(0, 0, 0, 0.235);
+    color: aliceblue;
+    font-size : 30px;
+    font-family: serif;
+    padding: 50px;
+    width: 1200px;
+    height: 10px;
+    margin: 25px;
+    margin-top: 10px;}
+    
+
+
+
+nav {
+    display: flex;
+gap: 10%;}
+
+
+
+.semua {
+    padding: 50px;
+}
+
+.gambargw {
+    display: flex;
+    text-align: center;
+}
+
+.photo{
+    width: 300px;
+}
+
+
+.desgw {
+    font-size: 20 px;
+    font-family: initial;
+    margin-left: 40px;
+    text-align: justify;
+    width: 700px;
+ }
+
+.desgw h1 {
+    font-size: 50 px;
+    font-family: initial;
+    margin-left: 40px;
+    text-align: center;
+}
+ 
+
+.isi {
+font-size: 50px;
+text-align: center;
+
+}
